@@ -55,11 +55,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'DENVER-V2'
+global.botname = 'MONARCH-MD'
 global.premium = 'true'
-global.packname = 'DENVER-V2' 
-global.author = 'Made by Denver' 
-global.menuvid = 'https://i.imgur.com/ZQtjroz.mp4'
+global.packname = 'MONARCH-MD' 
+global.author = 'SATURO-GOJO' 
+global.menuvid = 'https://i.imgur.com/QYY98Iy.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
